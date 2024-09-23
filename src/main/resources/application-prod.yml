@@ -1,0 +1,4 @@
+logging:
+  level:
+    root: INFO
+  appender: to_log_file
